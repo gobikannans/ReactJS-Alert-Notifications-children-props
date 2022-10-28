@@ -1,0 +1,73 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.success-icon {
+  color: #2dca73;
+  display: flex;
+  justify-content: flex-start;
+  align-self: flex-start;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.error-icon {
+  color: #ff0b37;
+  display: flex;
+  align-self: flex-start;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.warning-icon {
+  color: #ffb800;
+  display: flex;
+  align-self: flex-start;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.info-icon {
+  color: #0f81e0;
+  display: flex;
+  align-self: flex-start;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.notification {
+  margin-left: 15px;
+  width: 100%;
+}
+.success-heading {
+  color: #2dca73;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.error-heading {
+  color: #ff0b37;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.warning-heading {
+  color: #ffb800;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.info-heading {
+  color: #0f81e0;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.para {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 13px;
+}
